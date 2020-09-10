@@ -1,0 +1,17 @@
+com\loxon\javachallenge\memory\api\communication\commands\ResponseStats.class
+com\loxon\javachallenge\memory\api\communication\commands\CommandSwap.class
+com\loxon\javachallenge\memory\api\MemoryState.class
+com\loxon\javachallenge\memory\api\communication\commands\ResponseScan.class
+com\loxon\javachallenge\memory\api\communication\general\CommandGeneral.class
+com\loxon\javachallenge\memory\api\communication\commands\CommandScan.class
+com\loxon\javachallenge\memory\api\PlayerScore.class
+com\loxon\javachallenge\memory\api\communication\general\Response.class
+com\loxon\javachallenge\memory\api\Game.class
+com\loxon\javachallenge\memory\api\communication\commands\CommandAllocate.class
+com\loxon\javachallenge\memory\api\communication\general\Command.class
+com\loxon\javachallenge\memory\api\communication\commands\CommandFree.class
+com\loxon\javachallenge\memory\api\communication\commands\CommandFortify.class
+com\loxon\javachallenge\memory\api\communication\commands\CommandRecover.class
+com\loxon\javachallenge\memory\api\communication\commands\CommandStats.class
+com\loxon\javachallenge\memory\api\communication\commands\ResponseSuccessList.class
+com\loxon\javachallenge\memory\api\Player.class

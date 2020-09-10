@@ -1,0 +1,56 @@
+-------------------------------------------------------------------------------
+Test set: com.loxon.javachallenge.memory.MemoryRules
+-------------------------------------------------------------------------------
+Tests run: 13, Failures: 13, Errors: 0, Skipped: 0, Time elapsed: 0.047 s <<< FAILURE! - in com.loxon.javachallenge.memory.MemoryRules
+testAllocate(com.loxon.javachallenge.memory.MemoryRules)  Time elapsed: 0.009 s  <<< FAILURE!
+java.lang.AssertionError: Game implementation is required.
+	at com.loxon.javachallenge.memory.MemoryRules.beforeEachTest(MemoryRules.java:103)
+
+testFree(com.loxon.javachallenge.memory.MemoryRules)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: Game implementation is required.
+	at com.loxon.javachallenge.memory.MemoryRules.beforeEachTest(MemoryRules.java:103)
+
+testHack(com.loxon.javachallenge.memory.MemoryRules)  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.AssertionError: Game implementation is required.
+	at com.loxon.javachallenge.memory.MemoryRules.beforeEachTest(MemoryRules.java:103)
+
+testScan(com.loxon.javachallenge.memory.MemoryRules)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: Game implementation is required.
+	at com.loxon.javachallenge.memory.MemoryRules.beforeEachTest(MemoryRules.java:103)
+
+testSwap(com.loxon.javachallenge.memory.MemoryRules)  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.AssertionError: Game implementation is required.
+	at com.loxon.javachallenge.memory.MemoryRules.beforeEachTest(MemoryRules.java:103)
+
+testFortify(com.loxon.javachallenge.memory.MemoryRules)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: Game implementation is required.
+	at com.loxon.javachallenge.memory.MemoryRules.beforeEachTest(MemoryRules.java:103)
+
+testSwapInvalid(com.loxon.javachallenge.memory.MemoryRules)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: Game implementation is required.
+	at com.loxon.javachallenge.memory.MemoryRules.beforeEachTest(MemoryRules.java:103)
+
+testScanInvalid(com.loxon.javachallenge.memory.MemoryRules)  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.AssertionError: Game implementation is required.
+	at com.loxon.javachallenge.memory.MemoryRules.beforeEachTest(MemoryRules.java:103)
+
+testStatsAndScores(com.loxon.javachallenge.memory.MemoryRules)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: Game implementation is required.
+	at com.loxon.javachallenge.memory.MemoryRules.beforeEachTest(MemoryRules.java:103)
+
+testRecover(com.loxon.javachallenge.memory.MemoryRules)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: Game implementation is required.
+	at com.loxon.javachallenge.memory.MemoryRules.beforeEachTest(MemoryRules.java:103)
+
+testAllocateCorrupt(com.loxon.javachallenge.memory.MemoryRules)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: Game implementation is required.
+	at com.loxon.javachallenge.memory.MemoryRules.beforeEachTest(MemoryRules.java:103)
+
+testFreeInvalid(com.loxon.javachallenge.memory.MemoryRules)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: Game implementation is required.
+	at com.loxon.javachallenge.memory.MemoryRules.beforeEachTest(MemoryRules.java:103)
+
+testAllocateInvalid(com.loxon.javachallenge.memory.MemoryRules)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: Game implementation is required.
+	at com.loxon.javachallenge.memory.MemoryRules.beforeEachTest(MemoryRules.java:103)
+
